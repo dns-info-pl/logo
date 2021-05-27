@@ -36,3 +36,6 @@ Icon Designed by
 
 ## 2
 ![2/cover.png](2/cover.png)
+
+
++ [edit](https://github.com/dns-info-pl/logo/edit/main/README.md)
