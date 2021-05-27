@@ -1,5 +1,8 @@
 # [logo.dns.info.pl](https://logo.dns.info.pl)
 
+git
+https://github.com/dns-info-pl/logo.git
+
 ## Font
 
 Font in use <a target="_blank" href="https://fonts.google.com/specimen/Brawler">Brawler</a> designed by
